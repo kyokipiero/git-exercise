@@ -1,1 +1,1 @@
-# git-exercise big word
+# git-exercise small word
